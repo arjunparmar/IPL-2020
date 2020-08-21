@@ -12,7 +12,9 @@
 
 4) Multiple Linear Regression from Scratch in Numpy: https://towardsdatascience.com/multiple-linear-regression-from-scratch-in-numpy-36a3e8ac8014
 
-5) Github usefuls:
+5) R squared explanation video: https://youtu.be/2AQKmw14mHM
+
+6) Github usefuls:
 
 	1) Git and GitHub for Beginners - Crash Course: https://youtu.be/RGOj5yH7evk
 
