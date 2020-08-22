@@ -2,7 +2,7 @@
 ## DRISHTI MINI PROJECT 2020
 ## _RESOURCES_
 
-1) Machine Learning Full Course - Learn Machine Learning 10 Hours | Machine Learning Tutorial | Edureka: https://youtu.be/GwIo3gDZCVQ
+1) [Machine Learning Full Course - Learn Machine Learning 10 Hours | Machine Learning Tutorial | Edureka](https://youtu.be/GwIo3gDZCVQ)
 
 2) Predicting house prices with linear regression by Sara Gaspar: https://medium.com/@datalesdatales/predicting-house-prices-with-linear-regression-595422992c48
 	
