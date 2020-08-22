@@ -27,7 +27,11 @@
 	5) For correcting mistakes in git: https://www.youtube.com/watch?v=FdZecVxzJbk&t=358s
 	
 	NOTE: Use `git push origin [name_of_your_new_branch]` command to push your branch to origin / remote...and never use `git push -f` command
+	
+  ## _ERRORS_
   
+1) Expected 2D ARRAY got 1D ARRAY: https://stackoverflow.com/questions/47965149/expected-2d-array-got-1d-array-instead-reshape-data
+
+2) Jupyter notebook not running code. Stuck on In [*]: https://stackoverflow.com/questions/46383177/jupyter-notebook-not-running-code-stuck-on-in?fbclid=IwAR1mNHvgtmlUoVXcl4E5TOVUgHdczyUtVaXFkA8eDBXW6w55g7l2D0tJLD8  
   
-  
-  
+3) numpy.linalg.pinv() preferred over numpy.linalg.inv() for creating inverse of a matrix in linear regression: https://stackoverflow.com/questions/49357417/why-is-numpy-linalg-pinv-preferred-over-numpy-linalg-inv-for-creating-invers
