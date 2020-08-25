@@ -1,4 +1,4 @@
-##Progress
+#Progress
 
 Linear Regression with one parameter(from Scratch) --> MAE Score: 5581655.43
 
