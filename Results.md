@@ -10,3 +10,8 @@
         - Accuracy     = 0.8125
         - Precision    = 0.7391
         - Recall       = 0.6538
+	- AUC          = 0.8475
+    
+    * Multivariate Logistic Reg.
+	- Accuracy     = 0.9774
+	- AUC (macro)  = 0.9645
