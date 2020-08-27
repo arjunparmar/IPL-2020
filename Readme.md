@@ -11,4 +11,5 @@ Linear Regression with 3 parameter(from sklearn) --> MAE Score: 57188.6281479974
 
 Binary Logistic Regression with 3 parameter(from sklearn) --> Accuracy score: 0.675
 
+-Himanshu Pandey
  																																																																																																																																																													
