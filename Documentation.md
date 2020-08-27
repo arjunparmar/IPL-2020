@@ -26,14 +26,13 @@
 
    * [For correcting mistakes in git](https://www.youtube.com/watch?v=FdZecVxzJbk&t=358s)
 	
-	NOTE: Use `git push origin [name_of_your_new_branch]` command to push your branch to origin / remote...and never use `git push -f` command
-7) [StatQuest: R-squared explained](https://youtu.be/2AQKmw14mHM)
+	NOTE: Use `git push origin [name_of_your_new_branch]` command to push your branch to origin / remote...and never use `git push -f` comman
 
-8) [Real world implementation of Logistic Regression](https://towardsdatascience.com/real-world-implementation-of-logistic-regression-5136cefb8125)
+7) [Real world implementation of Logistic Regression](https://towardsdatascience.com/real-world-implementation-of-logistic-regression-5136cefb8125)
 
-9) [Linear Regression With Multiple Variables | Features And Polynomial Regression](https://youtu.be/Hwj_9wMXDVo)
+8) [Linear Regression With Multiple Variables | Features And Polynomial Regression](https://youtu.be/Hwj_9wMXDVo)
 
-10) [A Gentle Introduction to k-fold Cross-Validation](https://machinelearningmastery.com/k-fold-cross-validation)
+9) [A Gentle Introduction to k-fold Cross-Validation](https://machinelearningmastery.com/k-fold-cross-validation)
 
 	
   ## _ERRORS_
