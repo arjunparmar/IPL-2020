@@ -11,4 +11,6 @@ Linear Regression with 3 parameter(from sklearn) --> MAE Score: 57188.6281479974
 
 Binary Logistic Regression with 3 parameter(from sklearn) --> Accuracy score: 0.675
 
+
+Logistic Regression with MultiClass(3 Classes)(From Sklearn) --> Accuracy score: 0.98 (Using "solver: newton-cg")
  																																																																																																																																																													
