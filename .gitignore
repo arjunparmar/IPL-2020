@@ -2,3 +2,8 @@
 #######################
 
 *~
+
+# jupyter notebook #
+####################
+
+.ipynb_checkpoints
