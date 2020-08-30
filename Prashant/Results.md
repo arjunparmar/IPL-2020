@@ -8,8 +8,8 @@
 2. Logistic Regression using sklearn
 	* Binary Logistic Reg.
 		- Accuracy     = 0.8125
-        	- Precision    = 0.7391
-        	- Recall       = 0.6538
+		- Precision    = 0.7391
+		- Recall       = 0.6538
 		- AUC          = 0.8475
 	* Multivariate Logistic Reg.
     		- Accuracy     = 0.9774
@@ -17,11 +17,11 @@
 
 3. Ridge and Lasso Regression
 	* Ridge Reg.
-		-test score (low alpha)   = 0.7146
-		-test score (high alpha)  = 0.6805
+		- Test score (low alpha)   = 0.7146
+		- Test score (high alpha)  = 0.6805
 	* Lasso Reg.
-		-test score (low alpha)   =  0.6641
-		-test score (high alpha)  =  0.7318
+		- Test score (low alpha)   =  0.6641
+		- Test score (high alpha)  =  0.7318
 
 4. K-Nearest Neighbors Model
 	- k = 10
