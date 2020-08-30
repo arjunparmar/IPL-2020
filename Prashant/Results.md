@@ -8,8 +8,8 @@
 2. Logistic Regression using sklearn
 	* Binary Logistic Reg.
 		- Accuracy     = 0.8125
-        	- Precision    = 0.7391
-        	- Recall       = 0.6538
+		- Precision    = 0.7391
+		- Recall       = 0.6538
 		- AUC          = 0.8475
 	* Multivariate Logistic Reg.
     		- Accuracy     = 0.9774
