@@ -34,6 +34,19 @@
 
 9) [A Gentle Introduction to k-fold Cross-Validation](https://machinelearningmastery.com/k-fold-cross-validation)
 
+10) [Lasso and Ridge Regression](https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b)
+
+11) [K- Nearest Neighbors Model](https://towardsdatascience.com/knn-using-scikit-learn-c6bed765be75)
+
+12) [Decision Tree Classifier](https://medium.com/pursuitnotes/decision-tree-classification-in-9-steps-with-python-600c85ef56de)
+
+13) [Random Forest Classifier](https://towardsdatascience.com/random-forest-classification-and-its-implementation-d5d840dbead0)
+
+14) [SVM model](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
+
+15) [XGB Model](https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn)
+
+
 	
   ## _ERRORS_
   
