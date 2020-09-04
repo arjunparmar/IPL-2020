@@ -1,5 +1,38 @@
 # IPL-2020 
 ## DRISHTI MINI PROJECT 2020
+
+### Problem Statement
+
+#### IPL 2020 Winner Prediction:
+Since the dawn of the IPL in 2008, it has attracted viewers all around the globe. High level of uncertainty
+and last moment nail biters has urged fans to watch the matches. In a cricket match, we might have seen the
+score line showing the probability of the team winning based on the current match situation. Its indeed
+clear that Data Analytics has been part of this sport for a long time.
+Sports analytics is nothing but the process of collecting past matches data and analysing them to extract the
+essential knowledge out of it, with a hope that it facilitates in effective decision making.
+Have you wondered what would be the predictions about the IPL 2020 if it were to happen in India? Who
+would have the highest chances of winning this season? We propose a project with an objective to predict
+the result of each IPL match by implementing different machine learning algorithms and models.
+Furthermore, the performance and accuracy of each model will be compared to decide the ultimate winner
+of IPL 2020!
+
+## Timeline
+
+| Schedule    | Description             |
+| ----------- | ------------------------|
+| 19/8 to 30/8| Learning Algorithms     |
+| 30/8 to 2/9 | Feature Selection       |
+| 2/9  to 6/9 | Data Collection         |
+| 6/9  to 13/9| Model Training          |
+| 13/9 to 18/9| Optimization or Debug   |
+
+*Timeline is subject to change depending upon the progress.
+
+
+
+
+
+
 ## _RESOURCES_
 
 1) [Machine Learning Full Course - Learn Machine Learning 10 Hours | Machine Learning Tutorial | Edureka](https://youtu.be/GwIo3gDZCVQ)
@@ -48,7 +81,7 @@
 
 
 	
-  ## _ERRORS_
+## _ERRORS_
   
 1) [Expected 2D ARRAY got 1D ARRAY](https://stackoverflow.com/questions/47965149/expected-2d-array-got-1d-array-instead-reshape-data)
 
@@ -65,3 +98,7 @@
 7) [Replacing column values in a pandas DataFrame](https://stackoverflow.com/questions/23307301/replacing-column-values-in-a-pandas-dataframe)
 
 8) [Pandas change value of a column based another column condition](https://datascience.stackexchange.com/questions/56668/pandas-change-value-of-a-column-based-another-column-condition)
+
+
+
+
