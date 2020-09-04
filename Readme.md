@@ -59,7 +59,7 @@ of IPL 2020!
 
    * [For correcting mistakes in git](https://www.youtube.com/watch?v=FdZecVxzJbk&t=358s)
 	
-	NOTE: Use `git push origin [name_of_your_new_branch]` command to push your branch to origin / remote...and never use `git push -f` comman
+:warning: NOTE: Use `git push origin [name_of_your_new_branch]` command to push your branch to origin / remote...and never use `git push -f` command as it will rewrite the repo 
 
 7) [Real world implementation of Logistic Regression](https://towardsdatascience.com/real-world-implementation-of-logistic-regression-5136cefb8125)
 
@@ -98,6 +98,37 @@ of IPL 2020!
 7) [Replacing column values in a pandas DataFrame](https://stackoverflow.com/questions/23307301/replacing-column-values-in-a-pandas-dataframe)
 
 8) [Pandas change value of a column based another column condition](https://datascience.stackexchange.com/questions/56668/pandas-change-value-of-a-column-based-another-column-condition)
+
+
+## Contributors ✨
+
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/arjunparmar"><img src="https://avatars3.githubusercontent.com/u/46809214?s=64&v=4" width="100px;" alt=""/><br /><sub><b>Arjun Parmar</b></sub></a><br /><a href="" title="Code">💻</a> <a href="">📦</a> <a href="" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/YatinAdityaT"><img src="https://avatars0.githubusercontent.com/u/46792739?s=64&v=4" width="100px;" alt=""/><br /><sub><b>Yatin Aditya Tekumalla</b></sub></a><br /><a href="" title="Code">💻</a><a href="" title="Design">🎨</a><a href="">📦</a></td>
+    <td align="center"><a href="https://github.com/rajanshoo25"><img src="https://avatars3.githubusercontent.com/u/57529264?s=64&v=4" width="100px;" alt=""/><br /><sub><b>Anshoo Rajput </b></sub></a><br /><a href="" title="Documentation">📖</a> <a href="" title="Design">🎨</a><a href="" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Atul-18-2000"><img src="https://avatars2.githubusercontent.com/u/52687463?s=64&v=4" width="100px;" alt=""/><br /><sub><b>Atul Dhamija</b></sub></a><br /><a href="" title="Code">💻</a> <a href="" title="Maintenance">🚧</a><a href="" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/Banseedhar01"><img src="https://avatars2.githubusercontent.com/u/56584368?s=64&v=4" width="100px;" alt=""/><br /><sub><b>Banseedhar Gondaliya</b></sub></a><br /><a href="" title="Financial">💵</a> <a href="" title="Code">💻</a><a href="" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/GrayFlash"><img src="https://avatars1.githubusercontent.com/u/57063469?s=64&v=4" width="100px;" alt=""/><br /><sub><b>Gaurav Kumar</b></sub></a><br /><a href="" title="Code">💻</a> <a href="" title="Bug reports">🐛</a><a href="" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/H4R5H1T-007"><img src="https://avatars0.githubusercontent.com/u/57803023?s=64&v=4" width="100px;" alt=""/><br /><sub><b>Harshit</b></sub></a><br /><a href="" title="Code">💻</a><a href="" title="Design">🎨</a><a href="">📦</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://hp77-creator.github.io"><img src="https://avatars3.githubusercontent.com/u/24816726?s=64&v=4" width="100px;" alt=""/><br /><sub><b>Himanshu Pandey</b></sub></a><br /><a href="" title="Documentation">📖</a><a href="" title="Code">💻</a><a href="" title="Design">🎨</a><a href="">📦</a></td>
+    <td align="center"><a href="https://github.com/krithikha2001"><img src="https://avatars0.githubusercontent.com/u/59526292?s=64&v=4" width="100px;" alt=""/><br /><sub><b>Krithika Bala</b></sub></a><br /><a href="" title="Documentation">📖</a><a href="" title="Code">💻</a><a href="" title="Design">🎨</a><a href="">📦</a></td>
+    <td align="center"><a href="https://github.com/pra17dod"><img src="https://avatars1.githubusercontent.com/u/58771078?s=64&v=4" width="100px;" alt=""/><br /><sub><b>Prashant Dodhiya</b></sub></a><br /><a href="" title="Documentation">📖</a><a href="" title="Code">💻</a><a href="" title="Design">🎨</a><a href="">📦</a></td>
+    <td align="center"><a href="https://github.com/geek-2002"><img src="https://avatars3.githubusercontent.com/u/59257797?s=64&v=4" width="100px;" alt=""/><br /><sub><b>Sankirtana</b></sub></a><br /><a href="" title="Code">💻</a> <a href="" title="Maintenance">🚧</a> <a href="">📦</a><a href="" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/SARVESHKHANDELWAL"><img src="https://avatars2.githubusercontent.com/u/62640264?s=64&v=4" width="100px;" alt=""/><br /><sub><b>Sarvesh Khandelwal</b></sub></a><br /><a href="" title="Code">💻</a><a href="" title="Design">🎨</a><a href="">📦</a></td>
+    
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
 
