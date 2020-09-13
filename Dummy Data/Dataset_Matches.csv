@@ -516,59 +516,59 @@ id,season,city,date,team1,team2,toss_winner,toss_decision,result,dl_applied,winn
 574,2015,Pune,20-05-2015,RCB,RR,RCB,bat,normal,0,RCB,71,0,AB de Villiers,Maharashtra Cricket Association Stadium,AK Chaudhary,C ShamshuDCin,,617,570,546,533,0.511111111,0.543859649,41,40,1.037,0.062,678,603.5,0.46,0.54
 575,2015,Ranchi,22-05-2015,RCB,CSK,CSK,field,normal,0,CSK,0,3,A Nehra,JSCA International Stadium Complex,AK Chaudhary,CB Gaffaney,,617,578,546,657,0.511111111,0.660714286,29,34,1.037,0.709,678,754.5,0.44,0.56
 576,2015,Kolkata,24-05-2015,MI,CSK,CSK,field,normal,0,MI,41,0,RG Sharma,Eden Gardens,HDPK Dharmasena,RK Illingworth,,782,578,546,657,0.568965517,0.660714286,61,31,-0.043,0.709,701.5,754.5,0.5,0.5
-577,2016,Mumbai,09-04-2016,MI,RPSs,MI,bat,normal,0,RPSs,0,9,AM Rahane,Wankhede Stadium,HDPK Dharmasena,CK Nandan,,659,764,393,719,0.553846154,0,37,57,-0.146,0.015,566,486.5,0,0
+577,2016,Mumbai,09-04-2016,MI,RPS,MI,bat,normal,0,RPS,0,9,AM Rahane,Wankhede Stadium,HDPK Dharmasena,CK Nandan,,659,764,393,719,0.553846154,0,37,57,-0.146,0.015,566,486.5,0,0
 578,2016,Kolkata,10-04-2016,DC,KKR,KKR,field,normal,0,KKR,0,9,AD Russell,Eden Gardens,S Ravi,C ShamshuDCin,,610,610,580,833,0.410714286,0.53968254,35,47,-0.155,0.106,959,559,0.4,0.6
 579,2016,Chandigarh,11-04-2016,KXIP,GL,GL,field,normal,0,GL,0,5,AJ Finch,"Punjab Cricket Association IS Bindra Stadium, Mohali",AK Chaudhary,VA Kulkarni,,662,513,563,500,0.448275862,0,52,57,-0.646,-0.374,364,630.5,0,0
 580,2016,Bangalore,12-04-2016,RCB,SRH,SRH,field,normal,0,RCB,45,0,AB de Villiers,M Chinnaswamy Stadium,HDPK Dharmasena,VK Sharma,,613,603,692,650,0.527272727,0.35,49,56,0.932,0.245,959,825.5,0.5,0.5
 581,2016,Kolkata,13-04-2016,KKR,MI,MI,field,normal,0,MI,0,6,RG Sharma,Eden Gardens,Nitin Menon,S Ravi,,610,659,833,393,0.53968254,0.553846154,40,53,0.106,-0.146,559,566,0.31,0.69
-582,2016,Rajkot,14-04-2016,RPSs,GL,RPSs,bat,normal,0,GL,0,7,AJ Finch,Saurashtra Cricket Association Stadium,VA Kulkarni,CK Nandan,,764,513,719,500,0,0,57,62,0.015,-0.374,486.5,630.5,0,0
+582,2016,Rajkot,14-04-2016,RPS,GL,RPS,bat,normal,0,GL,0,7,AJ Finch,Saurashtra Cricket Association Stadium,VA Kulkarni,CK Nandan,,764,513,719,500,0,0,57,62,0.015,-0.374,486.5,630.5,0,0
 583,2016,Delhi,15-04-2016,KXIP,DC,DC,field,normal,0,DC,0,8,A Mishra,Feroz Shah Kotla,S Ravi,C ShamshuDCin,,662,610,563,580,0.448275862,0.410714286,37,28,-0.646,-0.155,364,959,0.56,0.44
 584,2016,Hyderabad,16-04-2016,SRH,KKR,SRH,bat,normal,0,KKR,0,8,G Gambhir,"Rajiv Gandhi International Stadium, Uppal",AK Chaudhary,CK Nandan,,603,610,650,833,0.35,0.53968254,36,36,0.245,0.106,825.5,559,0.3,0.7
 585,2016,Mumbai,16-04-2016,MI,GL,GL,field,normal,0,GL,0,3,AJ Finch,Wankhede Stadium,HDPK Dharmasena,VK Sharma,,659,513,393,500,0.553846154,0,31,42,-0.146,-0.374,566,630.5,0,0
-586,2016,Chandigarh,17-04-2016,RPSs,KXIP,RPSs,bat,normal,0,KXIP,0,6,M Vohra,"Punjab Cricket Association IS Bindra Stadium, Mohali",S Ravi,C ShamshuDCin,,764,662,719,563,0,0.448275862,49,50,0.015,-0.646,486.5,364,0,0
+586,2016,Chandigarh,17-04-2016,RPS,KXIP,RPS,bat,normal,0,KXIP,0,6,M Vohra,"Punjab Cricket Association IS Bindra Stadium, Mohali",S Ravi,C ShamshuDCin,,764,662,719,563,0,0.448275862,49,50,0.015,-0.646,486.5,364,0,0
 587,2016,Bangalore,17-04-2016,RCB,DC,DC,field,normal,0,DC,0,7,Q de Kock,M Chinnaswamy Stadium,VA Kulkarni,A Nand Kishore,,613,610,692,580,0.527272727,0.410714286,63,51,0.932,-0.155,959,959,0.64,0.36
 588,2016,Hyderabad,18-04-2016,MI,SRH,SRH,field,normal,0,SRH,0,7,DA Warner,"Rajiv Gandhi International Stadium, Uppal",HDPK Dharmasena,VK Sharma,,659,603,393,650,0.553846154,0.35,40,33,-0.146,0.245,566,825.5,0.7,0.3
 589,2016,Chandigarh,19-04-2016,KXIP,KKR,KKR,field,normal,0,KKR,0,6,RV Uthappa,"Punjab Cricket Association IS Bindra Stadium, Mohali",S Ravi,C ShamshuDCin,,662,610,563,833,0.448275862,0.53968254,41,65,-0.646,0.106,364,559,0.35,0.56
 590,2016,Mumbai,20-04-2016,RCB,MI,MI,field,normal,0,MI,0,6,RG Sharma,Wankhede Stadium,AK Chaudhary,CK Nandan,,613,659,692,393,0.527272727,0.553846154,49,51,0.932,-0.146,959,566,0.47,0.53
 591,2016,Rajkot,21-04-2016,GL,SRH,SRH,field,normal,0,SRH,0,10,B Kumar,Saurashtra Cricket Association Stadium,K Bharatan,HDPK Dharmasena,,513,603,500,650,0,0.35,50,63,-0.374,0.245,630.5,825.5,0,0
-592,2016,Pune,22-04-2016,RCB,RPSs,RPSs,field,normal,0,RCB,13,0,AB de Villiers,Maharashtra Cricket Association Stadium,CB Gaffaney,VK Sharma,,613,764,692,719,0.527272727,0,48,36,0.932,0.015,959,486.5,0,0
+592,2016,Pune,22-04-2016,RCB,RPS,RPS,field,normal,0,RCB,13,0,AB de Villiers,Maharashtra Cricket Association Stadium,CB Gaffaney,VK Sharma,,613,764,692,719,0.527272727,0,48,36,0.932,0.015,959,486.5,0,0
 593,2016,Delhi,23-04-2016,DC,MI,MI,field,normal,0,DC,10,0,SV Samson,Feroz Shah Kotla,S Ravi,C ShamshuDCin,,610,659,580,393,0.410714286,0.553846154,41,52,-0.155,-0.146,959,566,0.5,0.5
 594,2016,Hyderabad,23-04-2016,KXIP,SRH,SRH,field,normal,0,SRH,0,5,Mustafizur Rahman,"Rajiv Gandhi International Stadium, Uppal",AK Chaudhary,CK Nandan,,662,603,563,650,0.448275862,0.35,35,65,-0.646,0.245,364,825.5,0.3,0.7
 595,2016,Rajkot,24-04-2016,RCB,GL,RCB,bat,normal,0,GL,0,6,V Kohli,Saurashtra Cricket Association Stadium,K Bharatan,BNJ Oxenford,,613,513,692,500,0.527272727,0,50,72,0.932,-0.374,959,630.5,0,0
-596,2016,Pune,24-04-2016,RPSs,KKR,KKR,field,normal,0,KKR,0,2,SA Yadav,Maharashtra Cricket Association Stadium,CB Gaffaney,A Nand Kishore,,764,610,719,833,0,0.53968254,31,59,0.015,0.106,486.5,559,0,0
+596,2016,Pune,24-04-2016,RPS,KKR,KKR,field,normal,0,KKR,0,2,SA Yadav,Maharashtra Cricket Association Stadium,CB Gaffaney,A Nand Kishore,,764,610,719,833,0,0.53968254,31,59,0.015,0.106,486.5,559,0,0
 597,2016,Chandigarh,25-04-2016,MI,KXIP,KXIP,field,normal,0,MI,25,0,PA Patel,"Punjab Cricket Association IS Bindra Stadium, Mohali",Nitin Menon,RJ Tucker,,659,662,393,563,0.553846154,0.448275862,39,40,-0.146,-0.646,566,364,0.5,0.5
-598,2016,Hyderabad,26-04-2016,SRH,RPSs,RPSs,field,normal,1,RPSs,34,0,AB Dinda,"Rajiv Gandhi International Stadium, Uppal",AY Dandekar,CK Nandan,,603,764,650,719,0.35,0,27,46,0.245,0.015,825.5,486.5,0,0
+598,2016,Hyderabad,26-04-2016,SRH,RPS,RPS,field,normal,1,RPS,34,0,AB Dinda,"Rajiv Gandhi International Stadium, Uppal",AY Dandekar,CK Nandan,,603,764,650,719,0.35,0,27,46,0.245,0.015,825.5,486.5,0,0
 599,2016,Delhi,27-04-2016,GL,DC,DC,field,normal,0,GL,1,0,CH Morris,Feroz Shah Kotla,M Erasmus,S Ravi,,513,610,500,580,0,0.410714286,71,22,-0.374,-0.155,630.5,959,0,0
 600,2016,Mumbai,28-04-2016,KKR,MI,MI,field,normal,0,MI,0,6,RG Sharma,Wankhede Stadium,Nitin Menon,RJ Tucker,,610,659,833,393,0.53968254,0.553846154,59,64,0.106,-0.146,559,566,0.31,0.69
-601,2016,Pune,29-04-2016,RPSs,GL,GL,field,normal,0,GL,0,3,DR Smith,Maharashtra Cricket Association Stadium,CB Gaffaney,BNJ Oxenford,,764,513,719,500,0,0,48,72,0.015,-0.374,486.5,630.5,0,0
+601,2016,Pune,29-04-2016,RPS,GL,GL,field,normal,0,GL,0,3,DR Smith,Maharashtra Cricket Association Stadium,CB Gaffaney,BNJ Oxenford,,764,513,719,500,0,0,48,72,0.015,-0.374,486.5,630.5,0,0
 602,2016,Delhi,30-04-2016,DC,KKR,KKR,field,normal,0,DC,27,0,CR Brathwaite,Feroz Shah Kotla,KN Ananthapadmanabhan,M Erasmus,,610,610,580,833,0.410714286,0.53968254,37,43,-0.155,0.106,959,559,0.4,0.6
 603,2016,Hyderabad,30-04-2016,SRH,RCB,RCB,field,normal,0,SRH,15,0,DA Warner,"Rajiv Gandhi International Stadium, Uppal",AK Chaudhary,HDPK Dharmasena,,603,613,650,692,0.35,0.527272727,49,45,0.245,0.932,825.5,959,0.5,0.5
 604,2016,Rajkot,01-05-2016,KXIP,GL,GL,field,normal,0,KXIP,23,0,AR Patel,Saurashtra Cricket Association Stadium,BNJ Oxenford,VK Sharma,,662,513,563,500,0.448275862,0,59,36,-0.646,-0.374,364,630.5,0,0
-605,2016,Pune,01-05-2016,RPSs,MI,MI,field,normal,0,MI,0,8,RG Sharma,Maharashtra Cricket Association Stadium,AY Dandekar,RJ Tucker,,764,659,719,393,0,0.553846154,54,47,0.015,-0.146,486.5,566,0,0
+605,2016,Pune,01-05-2016,RPS,MI,MI,field,normal,0,MI,0,8,RG Sharma,Maharashtra Cricket Association Stadium,AY Dandekar,RJ Tucker,,764,659,719,393,0,0.553846154,54,47,0.015,-0.146,486.5,566,0,0
 606,2016,Bangalore,02-05-2016,RCB,KKR,KKR,field,normal,0,KKR,0,5,AD Russell,M Chinnaswamy Stadium,M Erasmus,S Ravi,,613,610,692,833,0.527272727,0.53968254,40,37,0.932,0.106,959,559,0.5,0.5
 607,2016,Rajkot,03-05-2016,GL,DC,DC,field,normal,0,DC,0,8,RR Pant,Saurashtra Cricket Association Stadium,CB Gaffaney,BNJ Oxenford,,513,610,500,580,0,0.410714286,35,61,-0.374,-0.155,630.5,959,0,0
 608,2016,Kolkata,04-05-2016,KKR,KXIP,KXIP,field,normal,0,KKR,7,0,AD Russell,Eden Gardens,AK Chaudhary,HDPK Dharmasena,,610,662,833,563,0.53968254,0.448275862,40,37,0.106,-0.646,559,364,0.56,0.35
-609,2016,Delhi,05-05-2016,DC,RPSs,RPSs,field,normal,0,RPSs,0,7,AM Rahane,Feroz Shah Kotla,C ShamshuDCin,RJ Tucker,,610,764,580,719,0.410714286,0,48,50,-0.155,0.015,959,486.5,0,0
+609,2016,Delhi,05-05-2016,DC,RPS,RPS,field,normal,0,RPS,0,7,AM Rahane,Feroz Shah Kotla,C ShamshuDCin,RJ Tucker,,610,764,580,719,0.410714286,0,48,50,-0.155,0.015,959,486.5,0,0
 610,2016,Hyderabad,06-05-2016,GL,SRH,SRH,field,normal,0,SRH,0,5,B Kumar,"Rajiv Gandhi International Stadium, Uppal",M Erasmus,S Ravi,,513,603,500,650,0,0.35,26,38,-0.374,0.245,630.5,825.5,0,0
-611,2016,Bangalore,07-05-2016,RPSs,RCB,RCB,field,normal,0,RCB,0,7,V Kohli,M Chinnaswamy Stadium,CB Gaffaney,BNJ Oxenford,,764,613,719,692,0,0.527272727,60,46,0.015,0.932,486.5,959,0,0
+611,2016,Bangalore,07-05-2016,RPS,RCB,RCB,field,normal,0,RCB,0,7,V Kohli,M Chinnaswamy Stadium,CB Gaffaney,BNJ Oxenford,,764,613,719,692,0,0.527272727,60,46,0.015,0.932,486.5,959,0,0
 612,2016,Chandigarh,07-05-2016,KXIP,DC,DC,field,normal,0,KXIP,9,0,MP Stoinis,"Punjab Cricket Association IS Bindra Stadium, Mohali",HDPK Dharmasena,CK Nandan,,662,610,563,580,0.448275862,0.410714286,45,51,-0.646,-0.155,364,959,0.56,0.44
 613,2016,Visakhapatnam,08-05-2016,SRH,MI,MI,field,normal,0,SRH,85,0,A Nehra,Dr. Y.S. Rajasekhara ReDCy ACA-VDECA Cricket Stadium,S Ravi,C ShamshuDCin,,603,659,650,393,0.35,0.553846154,51,32,0.245,-0.146,825.5,566,0.3,0.7
 614,2016,Kolkata,08-05-2016,KKR,GL,GL,field,normal,0,GL,0,5,P Kumar,Eden Gardens,M Erasmus,RJ Tucker,,610,513,833,500,0.53968254,0,28,46,0.106,-0.374,559,630.5,0,0
 615,2016,Chandigarh,09-05-2016,RCB,KXIP,KXIP,field,normal,0,RCB,1,0,SR Watson,"Punjab Cricket Association IS Bindra Stadium, Mohali",AK Chaudhary,HDPK Dharmasena,,613,662,692,563,0.527272727,0.448275862,56,50,0.932,-0.646,959,364,0.375,0.625
-616,2016,Visakhapatnam,10-05-2016,SRH,RPSs,SRH,bat,normal,0,SRH,4,0,A Zampa,Dr. Y.S. Rajasekhara ReDCy ACA-VDECA Cricket Stadium,CB Gaffaney,VK Sharma,,603,764,650,719,0.35,0,34,25,0.245,0.015,825.5,486.5,0,0
+616,2016,Visakhapatnam,10-05-2016,SRH,RPS,SRH,bat,normal,0,SRH,4,0,A Zampa,Dr. Y.S. Rajasekhara ReDCy ACA-VDECA Cricket Stadium,CB Gaffaney,VK Sharma,,603,764,650,719,0.35,0,34,25,0.245,0.015,825.5,486.5,0,0
 617,2016,Bangalore,11-05-2016,RCB,MI,MI,field,normal,0,MI,0,6,KH Pandya,M Chinnaswamy Stadium,AY Dandekar,C ShamshuDCin,,613,659,692,393,0.527272727,0.553846154,25,39,0.932,-0.146,959,566,0.47,0.53
 618,2016,Hyderabad,12-05-2016,SRH,DC,DC,field,normal,0,DC,0,7,CH Morris,"Rajiv Gandhi International Stadium, Uppal",K Bharatan,M Erasmus,,603,610,650,580,0.35,0.410714286,51,50,0.245,-0.155,825.5,959,0.83,0.17
 619,2016,Visakhapatnam,13-05-2016,MI,KXIP,MI,bat,normal,0,KXIP,0,7,MP Stoinis,Dr. Y.S. Rajasekhara ReDCy ACA-VDECA Cricket Stadium,HDPK Dharmasena,CK Nandan,,659,662,393,563,0.553846154,0.448275862,21,32,-0.146,-0.646,566,364,0.5,0.5
 620,2016,Bangalore,14-05-2016,RCB,GL,GL,field,normal,0,RCB,144,0,AB de Villiers,M Chinnaswamy Stadium,AY Dandekar,VK Sharma,,613,513,692,500,0.527272727,0,42,41,0.932,-0.374,959,630.5,0,0
-621,2016,Kolkata,14-05-2016,RPSs,KKR,RPSs,bat,normal,1,KKR,0,8,YK Pathan,Eden Gardens,A Nand Kishore,BNJ Oxenford,,764,610,719,833,0,0.53968254,37,66,0.015,0.106,486.5,559,0,0
+621,2016,Kolkata,14-05-2016,RPS,KKR,RPS,bat,normal,1,KKR,0,8,YK Pathan,Eden Gardens,A Nand Kishore,BNJ Oxenford,,764,610,719,833,0,0.53968254,37,66,0.015,0.106,486.5,559,0,0
 622,2016,Chandigarh,15-05-2016,KXIP,SRH,KXIP,bat,normal,0,SRH,0,7,HM Amla,"Punjab Cricket Association IS Bindra Stadium, Mohali",KN Ananthapadmanabhan,M Erasmus,,662,603,563,650,0.448275862,0.35,47,55,-0.646,0.245,364,825.5,0.3,0.7
 623,2016,Visakhapatnam,15-05-2016,MI,DC,DC,field,normal,0,MI,80,0,KH Pandya,Dr. Y.S. Rajasekhara ReDCy ACA-VDECA Cricket Stadium,Nitin Menon,CK Nandan,,659,610,393,580,0.553846154,0.410714286,45,49,-0.146,-0.155,566,959,0.5,0.5
 624,2016,Kolkata,16-05-2016,KKR,RCB,RCB,field,normal,0,RCB,0,9,V Kohli,Eden Gardens,CB Gaffaney,A Nand Kishore,,610,613,833,692,0.53968254,0.527272727,51,63,0.106,0.932,559,959,0.5,0.5
-625,2016,Visakhapatnam,17-05-2016,DC,RPSs,RPSs,field,normal,1,RPSs,19,0,AB Dinda,Dr. Y.S. Rajasekhara ReDCy ACA-VDECA Cricket Stadium,Nitin Menon,C ShamshuDCin,,610,764,580,719,0.410714286,0,28,44,-0.155,0.015,959,486.5,0,0
+625,2016,Visakhapatnam,17-05-2016,DC,RPS,RPS,field,normal,1,RPS,19,0,AB Dinda,Dr. Y.S. Rajasekhara ReDCy ACA-VDECA Cricket Stadium,Nitin Menon,C ShamshuDCin,,610,764,580,719,0.410714286,0,28,44,-0.155,0.015,959,486.5,0,0
 626,2016,Bangalore,18-05-2016,RCB,KXIP,KXIP,field,normal,1,RCB,82,0,V Kohli,M Chinnaswamy Stadium,KN Ananthapadmanabhan,M Erasmus,,613,662,692,563,0.527272727,0.448275862,63,59,0.932,-0.646,959,364,0.375,0.625
 627,2016,Kanpur,19-05-2016,KKR,GL,GL,field,normal,0,GL,0,6,DR Smith,Green Park,AK Chaudhary,CK Nandan,,610,513,833,500,0.53968254,0,44,55,0.106,-0.374,559,630.5,0,0
 628,2016,Raipur,20-05-2016,SRH,DC,DC,field,normal,0,DC,0,6,KK Nair,Shaheed Veer Narayan Singh International Stadium,A Nand Kishore,BNJ Oxenford,,603,610,650,580,0.35,0.410714286,46,37,0.245,-0.155,825.5,959,0.83,0.17
-629,2016,Visakhapatnam,21-05-2016,KXIP,RPSs,KXIP,bat,normal,0,RPSs,0,4,MS Dhoni,Dr. Y.S. Rajasekhara ReDCy ACA-VDECA Cricket Stadium,HDPK Dharmasena,Nitin Menon,,662,764,563,719,0.448275862,0,52,44,-0.646,0.015,364,486.5,0,0
+629,2016,Visakhapatnam,21-05-2016,KXIP,RPS,KXIP,bat,normal,0,RPS,0,4,MS Dhoni,Dr. Y.S. Rajasekhara ReDCy ACA-VDECA Cricket Stadium,HDPK Dharmasena,Nitin Menon,,662,764,563,719,0.448275862,0,52,44,-0.646,0.015,364,486.5,0,0
 630,2016,Kanpur,21-05-2016,MI,GL,GL,field,normal,0,GL,0,6,SK Raina,Green Park,AK Chaudhary,CK Nandan,,659,513,393,500,0.553846154,0,49,70,-0.146,-0.374,566,630.5,0,0
 631,2016,Kolkata,22-05-2016,KKR,SRH,SRH,field,normal,0,KKR,22,0,YK Pathan,Eden Gardens,KN Ananthapadmanabhan,M Erasmus,,610,603,833,650,0.53968254,0.35,48,48,0.106,0.245,559,825.5,0.7,0.3
 632,2016,Raipur,22-05-2016,DC,RCB,RCB,field,normal,0,RCB,0,6,V Kohli,Shaheed Veer Narayan Singh International Stadium,A Nand Kishore,BNJ Oxenford,,610,613,580,692,0.410714286,0.527272727,43,49,-0.155,0.932,959,959,0.36,0.64
